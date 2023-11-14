@@ -3,13 +3,11 @@ a QR Code Generator with the help of Tailwind CSS and Typescript
 
 to run rhe project first you need to install some package 
 
-1. install npm for typescript 
+install npm package for TypeScript 
 ****
-   npm install -g typescript
-****
+    npm install -g typescript
 
-3. for package.json file
-****
-tsc --init
-****
+
+ 
+
 
