@@ -13,10 +13,12 @@ install npm for tailwind
 ****
     npm install -D tailwindcss postcss autoprefixer vite
 
-
-
 ****
     npx tailwindcss init
+
+to run the project 
+****
+    npm ru start
 
  
 
