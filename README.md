@@ -18,7 +18,7 @@ install npm for tailwind
 
 to run the project 
 ****
-    npm ru start
+    npm run start
 
  
 
