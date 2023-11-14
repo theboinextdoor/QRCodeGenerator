@@ -8,6 +8,16 @@ install npm package for TypeScript
     npm install -g typescript
 
 
+install npm for tailwind
+
+****
+    npm install -D tailwindcss postcss autoprefixer vite
+
+
+
+****
+    npx tailwindcss init
+
  
 
 
