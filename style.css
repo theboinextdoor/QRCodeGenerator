@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    .showimg{
+        @apply max-h-72 my-auto mx-auto border border-solid outline-slate-800 ;
+    }
+}
